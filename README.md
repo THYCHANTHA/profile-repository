@@ -81,11 +81,13 @@ Hello! I'm **Thy Chantha**, a 4th-year **Data Science Engineering student** at t
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=THYCHANTHA&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Thy Chantha's GitHub stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THYCHANTHA&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=THYCHANTHA&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=THYCHANTHA&show_icons=true&hide_border=true&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=0d1117" alt="Thy Chantha's GitHub stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THYCHANTHA&layout=compact&hide_border=true&title_color=FFD700&text_color=ffffff&bg_color=0d1117" alt="Top Languages" height="180" />
 </div>
+
+<p align="center">
+  <i>If stats are not loading, they may be processing. Please refresh in a moment!</i>
+</p>
 
 ---
 
