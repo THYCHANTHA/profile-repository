@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://thychantha.wuaze.com/images/bg_1.webp" width="150" style="border-radius: 50%; border: 3px solid #FFD700;" alt="Thy Chantha Profile Picture">
+<img src="./assets/professional profile.jpg" width="150" style="border-radius: 50%; border: 3px solid #FFD700;" alt="Thy Chantha Profile Picture">
 
 # 🌌 THY CHANTHA
 ### 🚀 Data Scientist | Machine Learning Engineer | Computer Vision Specialist
@@ -81,10 +81,10 @@ Hello! I'm **Thy Chantha**, a 4th-year **Data Science Engineering student** at t
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=THYCHANTHA&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Thy Chantha's GitHub stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THYCHANTHA&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=THYCHANTHA&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Thy Chantha's GitHub stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THYCHANTHA&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=THYCHANTHA&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=THYCHANTHA&theme=radical&hide_border=true" alt="GitHub Streak" height="180" />
 </div>
 
 ---
