@@ -9,13 +9,13 @@
 # 🌌 THY CHANTHA
 ### 🚀 Data Scientist | Machine Learning Engineer | Computer Vision Specialist
 
-<a href="https://thychantha.wuaze.com/">
+<a href="https://thychantha.wuaze.com/?i=1">
   <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Site-FFD700?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio">
 </a>
 <a href="mailto:chantthy62@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
-<a href="https://www.linkedin.com/in/thy-chantha-ai-junior-301313244">
+<a href="https://www.linkedin.com/in/thy-chantha-301313244/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
