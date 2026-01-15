@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.png" width="100%" alt="Thy Chantha Portfolio Header">
+<!-- <img src="./assets/header.png" width="100%" alt="Thy Chantha Portfolio Header"> -->
 
 <br/>
 
